@@ -49,3 +49,9 @@ npx vercel link
 npx vercel env pull .env.local
 npx vercel dev
 ```
+
+## Deployment
+
+Production: https://showcase-outreach.vercel.app
+
+Pushes to `main` deploy automatically via Vercel.
